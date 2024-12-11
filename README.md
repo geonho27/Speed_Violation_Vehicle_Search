@@ -38,9 +38,5 @@ YOLO (You Only Look Once) 모델은 실시간 객체 감지 기술 중 하나로
 시간과 거리: 차량이 ROI를 통과하는 데 걸린 시간과 이동 거리를 바탕으로 속도를 계산.
 
 
-https://github.com/user-attachments/assets/b9df3b83-373c-4d56-b8e3-39720681fa72
-
-
-https://github.com/user-attachments/assets/1d396342-6817-4ea1-9620-4d8625af7163
 
 
