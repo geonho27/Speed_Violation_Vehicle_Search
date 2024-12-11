@@ -18,6 +18,12 @@
   
 ![고속도로 상황일떄](https://github.com/user-attachments/assets/89dd9cd0-7cbb-4340-bf07-b1a007505f33)
 
+
+
+![GIFMaker_me](https://github.com/user-attachments/assets/2010aa58-d6d3-4ce5-ac67-f86c6bdda56d)
+
+
+
 # 동작 원리
 
 * YOLO11 모델
