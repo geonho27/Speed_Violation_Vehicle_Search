@@ -14,6 +14,7 @@
 * 속도 추정: 차량의 위치 변화에 기반하여 초당 속도를 계산.
 
 * 결과 시각화: 과속 차량을 강조 표시하고, 동영상 출력 파일로 저장.
+![고속도로 상황일떄](https://github.com/user-attachments/assets/89dd9cd0-7cbb-4340-bf07-b1a007505f33)
 
 # 동작 원리
 
@@ -28,4 +29,3 @@ YOLO (You Only Look Once) 모델은 실시간 객체 감지 기술 중 하나로
 
 시간과 거리: 차량이 ROI를 통과하는 데 걸린 시간과 이동 거리를 바탕으로 속도를 계산.
 
-![고속도로 상황일떄](https://github.com/user-attachments/assets/89dd9cd0-7cbb-4340-bf07-b1a007505f33)
