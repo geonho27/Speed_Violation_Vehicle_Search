@@ -29,3 +29,8 @@ YOLO (You Only Look Once) 모델은 실시간 객체 감지 기술 중 하나로
 * 과속 차량 감지
 
 프로그램은 사용자가 설정한 속도 제한을 초과하는 차량을 "과속"으로 분류하며, 과속 차량을 다른 붉은 색상으로 표시합니다.
+![고속도로 상황일떄](https://github.com/user-attachments/assets/e6516a11-1010-4f89-b7ee-a8fac871115b)
+
+<h3>국내 도로 cctv 영상을 이용하여 실시간 차량 속도 감지</h3>
+https://github.com/user-attachments/assets/08e3b822-3f61-4222-9a8f-60cf288f91da
+
